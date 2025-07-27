@@ -4,6 +4,11 @@ import os
 
 app = FastAPI()
 
+@app.get("/")
+def root():
+    return {"message": "Welcome to My API"}
+
+
 @app.get("/data/{filename}")
 def get_any_json(filename: str):
     file_path = f"bank_emp.json"
