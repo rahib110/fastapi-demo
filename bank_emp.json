@@ -1,0 +1,242 @@
+[
+  {
+    "name": "John Carter",
+    "age": 34,
+    "sex": "Male",
+    "image": "https://randomuser.me/api/portraits/men/10.jpg"
+  },
+  {
+    "name": "Emily Stone",
+    "age": 29,
+    "sex": "Female",
+    "image": "https://randomuser.me/api/portraits/women/21.jpg"
+  },
+  {
+    "name": "Michael Lee",
+    "age": 45,
+    "sex": "Male",
+    "image": "https://randomuser.me/api/portraits/men/20.jpg"
+  },
+  {
+    "name": "Sophia Martinez",
+    "age": 31,
+    "sex": "Female",
+    "image": "https://randomuser.me/api/portraits/women/22.jpg"
+  },
+  {
+    "name": "David Kim",
+    "age": 40,
+    "sex": "Male",
+    "image": "https://randomuser.me/api/portraits/men/40.jpg"
+  },
+  {
+    "name": "Grace Lin",
+    "age": 27,
+    "sex": "Female",
+    "image": "https://randomuser.me/api/portraits/women/35.jpg"
+  },
+  {
+    "name": "James Patel",
+    "age": 38,
+    "sex": "Male",
+    "image": "https://randomuser.me/api/portraits/men/33.jpg"
+  },
+  {
+    "name": "Olivia Brown",
+    "age": 26,
+    "sex": "Female",
+    "image": "https://randomuser.me/api/portraits/women/12.jpg"
+  },
+  {
+    "name": "Daniel Smith",
+    "age": 42,
+    "sex": "Male",
+    "image": "https://randomuser.me/api/portraits/men/55.jpg"
+  },
+  {
+    "name": "Ava Johnson",
+    "age": 30,
+    "sex": "Female",
+    "image": "https://randomuser.me/api/portraits/women/48.jpg"
+  },
+  {
+    "name": "William Harris",
+    "age": 37,
+    "sex": "Male",
+    "image": "https://randomuser.me/api/portraits/men/58.jpg"
+  },
+  {
+    "name": "Chloe Davis",
+    "age": 25,
+    "sex": "Female",
+    "image": "https://randomuser.me/api/portraits/women/26.jpg"
+  },
+  {
+    "name": "Benjamin Scott",
+    "age": 44,
+    "sex": "Male",
+    "image": "https://randomuser.me/api/portraits/men/45.jpg"
+  },
+  {
+    "name": "Lily Nguyen",
+    "age": 28,
+    "sex": "Female",
+    "image": "https://randomuser.me/api/portraits/women/43.jpg"
+  },
+  {
+    "name": "Ethan Wilson",
+    "age": 36,
+    "sex": "Male",
+    "image": "https://randomuser.me/api/portraits/men/19.jpg"
+  },
+  {
+    "name": "Mia Hall",
+    "age": 33,
+    "sex": "Female",
+    "image": "https://randomuser.me/api/portraits/women/52.jpg"
+  },
+  {
+    "name": "Lucas Allen",
+    "age": 31,
+    "sex": "Male",
+    "image": "https://randomuser.me/api/portraits/men/62.jpg"
+  },
+  {
+    "name": "Zoe Adams",
+    "age": 29,
+    "sex": "Female",
+    "image": "https://randomuser.me/api/portraits/women/62.jpg"
+  },
+  {
+    "name": "Henry Roberts",
+    "age": 41,
+    "sex": "Male",
+    "image": "https://randomuser.me/api/portraits/men/8.jpg"
+  },
+  {
+    "name": "Ella Walker",
+    "age": 24,
+    "sex": "Female",
+    "image": "https://randomuser.me/api/portraits/women/14.jpg"
+  },
+  {
+    "name": "Noah Lewis",
+    "age": 39,
+    "sex": "Male",
+    "image": "https://randomuser.me/api/portraits/men/12.jpg"
+  },
+  {
+    "name": "Harper Young",
+    "age": 32,
+    "sex": "Female",
+    "image": "https://randomuser.me/api/portraits/women/19.jpg"
+  },
+  {
+    "name": "Logan King",
+    "age": 27,
+    "sex": "Male",
+    "image": "https://randomuser.me/api/portraits/men/28.jpg"
+  },
+  {
+    "name": "Aria Green",
+    "age": 30,
+    "sex": "Female",
+    "image": "https://randomuser.me/api/portraits/women/50.jpg"
+  },
+  {
+    "name": "Jack Baker",
+    "age": 35,
+    "sex": "Male",
+    "image": "https://randomuser.me/api/portraits/men/16.jpg"
+  },
+  {
+    "name": "Layla Hill",
+    "age": 26,
+    "sex": "Female",
+    "image": "https://randomuser.me/api/portraits/women/31.jpg"
+  },
+  {
+    "name": "Alexander Turner",
+    "age": 43,
+    "sex": "Male",
+    "image": "https://randomuser.me/api/portraits/men/70.jpg"
+  },
+  {
+    "name": "Scarlett Wood",
+    "age": 28,
+    "sex": "Female",
+    "image": "https://randomuser.me/api/portraits/women/67.jpg"
+  },
+  {
+    "name": "Sebastian Evans",
+    "age": 39,
+    "sex": "Male",
+    "image": "https://randomuser.me/api/portraits/men/14.jpg"
+  },
+  {
+    "name": "Victoria Bell",
+    "age": 34,
+    "sex": "Female",
+    "image": "https://randomuser.me/api/portraits/women/59.jpg"
+  },
+  {
+    "name": "Matthew Perez",
+    "age": 36,
+    "sex": "Male",
+    "image": "https://randomuser.me/api/portraits/men/50.jpg"
+  },
+  {
+    "name": "Camila Rivera",
+    "age": 29,
+    "sex": "Female",
+    "image": "https://randomuser.me/api/portraits/women/45.jpg"
+  },
+  {
+    "name": "Nathan Torres",
+    "age": 37,
+    "sex": "Male",
+    "image": "https://randomuser.me/api/portraits/men/46.jpg"
+  },
+  {
+    "name": "Riley Ramirez",
+    "age": 25,
+    "sex": "Female",
+    "image": "https://randomuser.me/api/portraits/women/33.jpg"
+  },
+  {
+    "name": "Owen Foster",
+    "age": 42,
+    "sex": "Male",
+    "image": "https://randomuser.me/api/portraits/men/17.jpg"
+  },
+  {
+    "name": "Natalie Murphy",
+    "age": 31,
+    "sex": "Female",
+    "image": "https://randomuser.me/api/portraits/women/10.jpg"
+  },
+  {
+    "name": "Julian Jenkins",
+    "age": 38,
+    "sex": "Male",
+    "image": "https://randomuser.me/api/portraits/men/4.jpg"
+  },
+  {
+    "name": "Hannah Perry",
+    "age": 27,
+    "sex": "Female",
+    "image": "https://randomuser.me/api/portraits/women/41.jpg"
+  },
+  {
+    "name": "Aaron Russell",
+    "age": 33,
+    "sex": "Male",
+    "image": "https://randomuser.me/api/portraits/men/24.jpg"
+  },
+  {
+    "name": "Penelope Diaz",
+    "age": 30,
+    "sex": "Female",
+    "image": "https://randomuser.me/api/portraits/women/20.jpg"
+  }
+]
